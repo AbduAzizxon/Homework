@@ -1,0 +1,3 @@
+a=int(input('Kvadratning tomonini kriting: '))
+s=a**2
+print('kvadratning yuzi',s)
