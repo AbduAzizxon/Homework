@@ -1,0 +1,4 @@
+d=int(input('aylananing diametrini kiriting = '))
+pi=3.14
+l=pi*d
+print('aypananing uzunligi',l,sep='=')
