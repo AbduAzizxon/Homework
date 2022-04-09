@@ -1,0 +1,6 @@
+a=int(input('To\'rtburchakning a tomonini kriting: '))
+b=int(input('To\'rtburchakning b tomonini kriting: '))
+p=(a+b)*2
+s=a*b
+print('to\'rtburchakning yuzi',s, sep='=')
+print('to\'rtburchakning permetri',p,sep='=')
